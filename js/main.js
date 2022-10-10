@@ -46,7 +46,7 @@ btnconsultar.onclick = function ola() {
 
     switch (estadofinal) {
         case 1:
-            imgcambio.src = "/img/estados/1.jpg";
+            imgcambio.src = "./img/estados/1.jpg";
             break;
         case 2:
             imgcambio.src = "./img/estados/2.jpg";
